@@ -1,82 +1,22 @@
 return {
-    "7699174", -- Silly Fun
-    "1103003368", -- Orange Beanie
-    "2956239660", -- Belle of belfast
-    "451221329", -- True blue hair
-    "607702162", -- Roblox Baseball cap
-    "18112503797", -- Living Art Users Ads
-    "18112476810", -- USer Ads Backstage Pass
-    "1772336109", -- Down to earth hair
-    "2493587489", -- fuckass face (Knights of redcliff paladin)
-    "376527500", -- OrangeShades
-    "2646473721", -- Roblox Visor
-    "451220849", -- Lavender Updo
-    "417457461", -- ROBLOX 'R' Baseball cap
-    "7192553841", -- Zip Hoodie Black
-    "9240776381", -- Long Ruffle Skirt white
-    "376527115", -- Jade Necklance with Shell Pendant
-    "607700713", -- Roblox Logo Visor
-    "4819740796", -- Robox
-    "9240757332", -- Knit sweater black
-    "9244021842", -- Side part black
-    "8516620262", -- Hooded jacket
-    "7192685245", -- floral swim trunks blue
-    "6984763785", -- Casual Sweats - Black
-    "9120251003", -- Wetsuit Pants - Black
-    "617605556", -- Medieval Hood of Mystery
-    "9240752338", -- Tie-Front Top - White
-    "63690008", -- Pal Hair
-    "9244038785", -- Surfer - Red
-    "6984740059", -- Cargo Pants - Brown
-    "48474313", -- Red Roblox Cap
-    "7192664790", -- Casual Sweats - Gray
-    "3403874988", -- The Encierro Cap
-    "6984769289", -- Knit Sweater - Beige
-    "9244095135", -- Pony Tail - Blonde
-    "9174391966", -- Bermuda Shorts - Black
-    "8648380153", -- Trench Coat - White
-    "9120031517", -- Baseball Long Sleeve - B&W
-    "376526673", -- Stylish Aviators
-    "9243992729", -- Short and Sleek - Black
-    "7193442167", -- Pony Tail - Black
-    "7192549218", -- Leather Jacket - Black
-    "7192681239", -- Textured Leather Pants - White
-    "9174355709", -- Sideswept Dreads - Black
-    "9112474888", -- Basic T-Shirt - Gray
-    "8516609675", -- Denim Jacket - Light Wash
-    "376524487", -- Blonde Spiked Hair
-    "7178736794", -- Roblox T-Shirt - Black
-    "9244097555", -- Pony Tail - Brown
-    "8516612751", -- Denim Jacket - White
-    "3814474927", -- Cool Side Shave
-    "9240758221", -- Knit Sweater - Gray
-    "7193448258", -- Wavy Middle Part - Brown
-    "8721985925", -- Motorcycle Pants - Brown
-    "9174354743", -- Top Knot - Black
-    "9244111257", -- Wavy Middle Part - Black
-    "6993754725", -- Straight Bangs - Black
-    "8648397446", -- Parka - Brown
-    "7178740556", -- Baseball Long Sleeve - Red
-    "9243987340", -- Short and Sleek - Blonde
-    "9119670803", -- Striped T-Shirt - Black
-    "7193386173", -- Side Part - Blonde
-    "9244089488", -- Medium Middle Part - Black
-    "3814476174", -- Colorful Braids
-    "376526888", -- Straight Blonde Hair
-    "8516638468", -- Business Coat - Gray
-    "7192546798", -- Collared Leather Jacket - White
-    "9274635732", -- Floral Swim Trunks - White
-    "6984765766", -- Zip Hoodie - Orange
-    "7193448988", -- Straight Bangs - Blonde
-    "7193449810", -- Straight Bangs - Brown
-    "7193444640", -- Pony Tail - Red
-    "7193401217", -- Short Fringe - Black
-    "7178737816", -- Roblox T-Shirt - White
-    "7193445686", -- Wavy Middle Part - Blonde
-    "376548738", -- Brown Charmer Hair
-    "376527350" -- Black Ponytail
+    "RedBeanieWithHair",
+    "LongRedHair",
+    "CoolBoyHair",
+    "BoySpaceHair",
+    "Lanyard",
+    "LivignArt_SSN",
+    "VarietyShades10",
+    "RobloxVisor2019",
+    "LavanderHair",
+    "RCap",
+    "International Fedora",
+    "Necklace",
+    "MediHood",
+    "Pal Hair",
+    "Robloxclassicred",
+    "RunningBull",
+    "VarietyShades02",
+    "MessyHair",
+    "BrownCharmerHair",
+    "SidePonytail"
 }
-
-
-
---International Fedora
